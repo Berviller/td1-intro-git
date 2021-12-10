@@ -1,2 +1,2 @@
 # td1-intro-git
-Bonjour je m'appelle Thomas.
+Bonjour je m'appelle Salomé et Thomas.
